@@ -1,0 +1,31 @@
+
+.container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15vh
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.form label{
+    background-color: white;
+    color: black;
+    padding: 0.5em;
+    font-size: 2rem;
+    border-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    cursor: pointer;
+    box-shadow: 3px 3px 20px black;
+}
+
+.form input{
+    opacity: 50%;
+}
