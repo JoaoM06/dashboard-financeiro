@@ -1,0 +1,13 @@
+
+
+.container{
+    display: grid;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    margin-top: 80px;
+}
+
+.row{
+    border: 3px solid white;
+    padding-left: 30px;
+}
